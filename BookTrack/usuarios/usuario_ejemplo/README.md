@@ -1,11 +1,11 @@
-# Miguel Benjumea:
+# NOMBRE_USUARIO:
 
-![IMG_20230609_020342](https://github.com/user-attachments/assets/837cf188-ebb1-4777-8d8f-d878bbacdf9a)
+![image](https://github.com/user-attachments/assets/8dc1d281-8ecb-4334-b0d8-e2267889590c)
 
-## Libros leídos: 3
+## Libros leídos: x
 ## Escritores favoritos: 
-- Santiago Posterguillo
-- George Orwell
+- Escritor1
+- Escritor2
 ## Géneros favoritos:
-- Novela histórica
-- Distopía
+- Genero1
+- Genero2
